@@ -1,0 +1,15 @@
+{
+  "name": "hyperterm-thayer",
+  "version": "0.0.0",
+  "description": "Thayer HyperTerm theme",
+  "license": "MIT",
+  "repository": "e-jigsaw/hyperterm-thayer",
+  "author": "jigsaw (http://jgs.me)",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme"
+  ]
+}
